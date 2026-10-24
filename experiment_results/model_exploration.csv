@@ -1,0 +1,8 @@
+,avg_val_roc_auc
+LightGBM,0.9835048578871192
+Multi-Layer Perceptron,0.9810446185455927
+Random Forest,0.9768877564444081
+Adaptive Boosting,0.9733527676252678
+Logistic Regression,0.9600173943587128
+Nearest Neighbors,0.9464736899542736
+Decision Tree,0.6863830631135088
