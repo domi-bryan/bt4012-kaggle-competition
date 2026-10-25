@@ -19,13 +19,13 @@ Since the data files are too large to upload on GitHub, please put the `train.cs
 Requirements can be found in the [requirements.txt](./requirements.txt). List of external libraries used:
 
 ```
-lightgbm
+pandas
+numpy
 matplotlib
 networkx
-numpy
 optuna
-pandas
 scikit_learn
+lightgbm
 scipy
 ```
 
@@ -40,3 +40,13 @@ scipy
 The final probabilities prediction can be found at:
 * **Best Submission**: [./best_results/final_preds.csv](./best_results/final_preds.csv)
 * **Second-Best Submission**: [./second_best_results/final_preds.csv](./second_best_results/final_preds.csv)
+
+## Bibliography
+
+Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019). Optuna. Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2623–2631. https://doi.org/10.1145/3292500.3330701 
+
+Cambridge University Press & Assessment. (n.d.). fraudulent. https://dictionary.cambridge.org/dictionary/english/fraudulent 
+
+Guolin, K., Yu, S., Lamb, J., Morales, J., Borchert, O., & Mayer, M. (2026, March). LightGBM. GitHub. https://github.com/lightgbm-org/LightGBM 
+
+scikit-learn developers. (n.d.). Classifier comparison. https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
