@@ -1,2 +1,4 @@
 .DS_Store
-data/*
+data/train.csv
+data/test.csv
+data/txs_edgelist.csv
