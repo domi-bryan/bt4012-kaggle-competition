@@ -33,4 +33,10 @@ scipy
 
 [experiment_results/model_exploration.csv](./experiment_results/model_exploration.csv) is the result of "Model Exploration" experiment.
 
-[experiment_results/model_development.db](./experiment_results/model_exploration.csv) is the Optuna study results of "Model Development" experiment.
+[experiment_results/model_development.db](./experiment_results/model_development.db) is the Optuna study results of "Model Development" experiment.
+
+## Final Probabilities Prediction
+
+The final probabilities prediction can be found at:
+* **Best Submission**: [./best_results/final_preds.csv](./best_results/final_preds.csv)
+* **Second-Best Submission**: [./second_best_results/final_preds.csv](./second_best_results/final_preds.csv)
