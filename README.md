@@ -43,7 +43,7 @@ The final probabilities prediction can be found at:
 
 ## Bibliography
 
-Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019). *Optuna*. Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2623–2631. https://doi.org/10.1145/3292500.3330701 
+Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019). Optuna: A Next-generation Hyperparameter Optimization Framework. *Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery and Data Mining.*
 
 Cambridge University Press & Assessment. (n.d.). *fraudulent*. Cambridge Dictionary. https://dictionary.cambridge.org/dictionary/english/fraudulent 
 
